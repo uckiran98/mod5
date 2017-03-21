@@ -1,5 +1,7 @@
 # Single Page Web App using pure HTML5, CSS, JS
 
+<a href="https://lpm0073.github.io/jhu-course4-mod5-solution/" target="blank">View Web Site</a>
+
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 Last assignment and you are DONE!
