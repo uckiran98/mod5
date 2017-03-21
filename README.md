@@ -1,6 +1,6 @@
 # Single Page Web App using pure HTML5, CSS, JS
 
-<a href="https://lpm0073.github.io/jhu-course4-mod5-solution/" target="blank">View Web Site</a>
+Completed Project: [View Web Site](https://lpm0073.github.io/jhu-course4-mod5-solution/)
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
